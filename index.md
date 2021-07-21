@@ -1,29 +1,27 @@
-## Welcome to GitHub Pages
+##  Welcome to my page 
 
-You can use the [editor on GitHub](https://github.com/jeffreychuka/github-pages-with-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
+About
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Hi, I am Jeffrey. I'am UX designer
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+PlutoPay Project
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
+Enable users have a good interaction with the app
+send money, add money
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[https://www.behance.net/jeffreychuka, chukajeffrey@gmail.com
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
