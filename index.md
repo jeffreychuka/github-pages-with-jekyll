@@ -1,4 +1,4 @@
-![MY Project 3](https://user-images.githubusercontent.com/87776403/126582256-0fe5e6d3-2cd3-44d1-8e13-f2dac91e0375.png)
+![MY Project 3]https://www.behance.net/jeffreychuka
 ##  Welcome to my page 
 
 About
